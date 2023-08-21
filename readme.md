@@ -85,7 +85,7 @@ To run this project, you will need to add the following environment variables to
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/arnabdas18/shareV-server
 ```
 
 Go to the project directory
